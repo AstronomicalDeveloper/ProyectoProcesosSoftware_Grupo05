@@ -3,7 +3,7 @@
 ## Requisitos funcionales mandatorios
 Representa los requisitos que debe soportar el software es decir que el software sin ellos no funciona.
 - ***Módulos individuales por estudiante***. Deben permitir llevar un historial académico y de asistencia. En cada módulo se visualizarán los registros provenientes de las demás funcionalidades. Además, se podrán añadir observaciones personalizadas sobre cada estudiante para facilitar un seguimiento individual.
-- ***Registro de notas con cálculo automático de promedios***. EEl sistema deberá calcular automáticamente los promedios, considerando el peso o valor asignado a cada nota en la calificación final.
+- ***Registro de notas con cálculo automático de promedios***. El sistema deberá calcular automáticamente los promedios, considerando el peso o valor asignado a cada nota en la calificación final.
 - ***Registro de asistencias***. Se deberá llevar un registro diario de asistencia por estudiante.
 - ***Agrupación automática de estudiantes***. El sistema deberá permitir la conformación automática de grupos de trabajo. Estos grupos podrán tener notas colectivas y observaciones tanto a nivel grupal como individual.
 - ***Generación de reportes básicos***. El sistema deberá generar reportes sobre notas y asistencias de manera clara y accesible.
