@@ -5,6 +5,12 @@ Los requisitos funcionales se expresan en lenguaje técnico a partir de los requ
 Ello implica el desarrollo de los siguientes puntos:
 - Puede escribirse en pseudocódigo incluyendo anotaciones de fórmulas de cálculo matemático según sea el caso. Este escenario es factible cuando el requisito ha sido claramente definido y validado
   por el usuario/cliente.
+  Módulos individuales por estudiante: cada estudiante contará con un módulo que registre su historial académico y de asistencia. El sistema permitirá añadir observaciones personalizadas.
+  Registro de notas con cálculo automático de promedios: el sistema deberá almacenar notas por asignatura y calcular el promedio automáticamente considerando el peso de cada nota.
+  Registro de asistencias: el sistema permitirá registrar asistencia diaria.
+  Agrupación automática de estudiantes: el sistema conformará grupos de manera automática según criterios definidos (ejemplo: número de estudiantes por grupo).
+  Generación de reportes básicos: el sistema deberá generar reportes en PDF o Excel con el registro de notas y asistencia
+
 - Formato de interfaz de usuario y GUI como parte de la capa de presentación (Front End) del aplicativo de software: Incluye la interfaz de usuario para el sistema como propuesta inicial a las necesidades
   del cliente. Deberá incluirlo en el Anexo “A”. Este escenario es factible cuando los requisitos no se encuentran definidos desde la perspectiva del usuario o existe dificultad para su obtención y entendimiento.
   Puede utilizar cualquier herramienta mockup libre para diseñar sus interfaces: https://careerfoundry.com/en/blog/ux-design/free-wireframing-tools/
