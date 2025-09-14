@@ -5,7 +5,7 @@ Los requisitos funcionales se expresan en lenguaje técnico a partir de los requ
 Ello implica el desarrollo de los siguientes puntos:
 - Puede escribirse en pseudocódigo incluyendo anotaciones de fórmulas de cálculo matemático según sea el caso. Este escenario es factible cuando el requisito ha sido claramente definido y validado
   por el usuario/cliente.
-  # Módulos individuales por estudiante: cada estudiante contará con un módulo que registre su historial académico y de asistencia. El sistema permitirá añadir observaciones personalizadas.
+  Módulos individuales por estudiante: cada estudiante contará con un módulo que registre su historial académico y de asistencia. El sistema permitirá añadir observaciones personalizadas.
   Registro de notas con cálculo automático de promedios: el sistema deberá almacenar notas por asignatura y calcular el promedio automáticamente considerando el peso de cada nota.
   Registro de asistencias: el sistema permitirá registrar asistencia diaria.
   Agrupación automática de estudiantes: el sistema conformará grupos de manera automática según criterios definidos (ejemplo: número de estudiantes por grupo).
