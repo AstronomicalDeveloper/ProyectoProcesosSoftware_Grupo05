@@ -1,21 +1,22 @@
 # Requisitos de usuario
-Los requisitos del usuario se expresan en lenguaje natural. Los cuales han sido obtenidos mediante las técnicas de obtención de requisitos descritas en el Anexo A - “Técnicas de obtención de requisitos de software”. Puede incluir:
-- Ámbito funcional que deberá soportar el software por cada parte interesada. Por ejemplo, el área del cliente donde se encuentran los procesos que se necesitan automatizar:
-Compras, Ventas, Atención al cliente, Admisión de estudiantes, Inventario, etc.
-- La descripción del diseño de las funciones más importantes que se tiene previsto realice el sistema de información.
+Los presentes requisitos de usuario describen las necesidades y expectativas para el desarrollo de un Sistema de Gestión de Alumnos, expresadas en lenguaje natural por los usuarios finales. Estos requisitos han sido recopilados mediante diversas técnicas de obtención descritas en el Anexo A de este documento.
 
-## Anexo A: Técnicas de obtención de requisitos de software
-Documentar las técnicas que utilizaron para realizar la obtención de requisitos del software: Entrevistas, Encuestas, Cuestionarios, Análisis de tareas, Análisis del dominio, 
-Prototipos (a través del uso de wireframes), Observación, entre otras técnicas innovadoras que el ED haya podido realizar durante la etapa de recopilación de requisitos del software.
+## Descripción de las Funciones Previstas
+El sistema deberá ayudar a los profesores en su trabajo diario con los estudiantes, facilitando el registro de información académica, el seguimiento del progreso de cada alumno y la comunicación sobre su desempeño. Se prevé que el sistema permita tener toda la información de los estudiantes interconectada para evitar la repetición de tareas y los errores que ocurren cuando se usan múltiples programas no integrados.
 
-# Tips para mayor claridad
-## Propósito
-Definir los requisitos de usuario (lenguaje natural del usuario).
+# Anexo A: Técnicas de obtención de requisitos de software
+## Entrevista Estructurada
+Se realizó una entrevista con una profesora de primaria con 9 años de experiencia. La entrevista permitió comprender sus responsabilidades académicas y administrativas, las dificultades que enfrenta con las herramientas actuales y sus expectativas para un sistema de gestión integral.
+[Entrevista Estructurada Sistema de gestión de alumnos .docx](https://github.com/user-attachments/files/22454866/Entrevista.Estructurada.Sistema.de.gestion.de.alumnos.docx)
 
-## Qué se espera
-- Tener claridad en la definición de los requisitos de usuario.
+## Cuestionario
+Se aplicó un cuestionario para identificar problemas específicos con los sistemas actuales y priorizar las necesidades más urgentes. El cuestionario reveló que la pérdida de tiempo y la desorganización son los principales problemas, junto con la dificultad de trabajar con herramientas que no funcionan de manera integrada.
+[Mini Cuestionario de Requisitos.docx](https://github.com/user-attachments/files/22454872/Mini.Cuestionario.de.Requisitos.docx)
 
-## Técnicas de recopilación de requisitos
-Descritas en el Anexo A - “Técnicas de obtención de requisitos de software” de la presente guía.
-
+## Hallazgos Principales  
+-Los profesores utilizan múltiples programas no integrados (Excel, Word, WhatsApp)  
+-Existe duplicidad de datos y necesidad de transcripción manual entre sistemas  
+-Se realizan cálculos manuales para notas y asistencias  
+-Hay interés en tener información integrada y accesible por cada estudiante  
+-Se valora la automatización de tareas repetitivas para aumentar la productividad  
 
