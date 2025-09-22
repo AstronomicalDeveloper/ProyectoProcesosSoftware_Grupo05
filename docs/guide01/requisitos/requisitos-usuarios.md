@@ -7,7 +7,8 @@ El sistema deberá ayudar a los profesores en su trabajo diario con los estudian
 # Anexo A: Técnicas de obtención de requisitos de software
 ## Entrevista Estructurada
 Se realizó una entrevista con una profesora de primaria con 9 años de experiencia. La entrevista permitió comprender sus responsabilidades académicas y administrativas, las dificultades que enfrenta con las herramientas actuales y sus expectativas para un sistema de gestión integral.
-[Entrevista Estructurada Sistema de gestión de alumnos .docx](https://github.com/user-attachments/files/22454866/Entrevista.Estructurada.Sistema.de.gestion.de.alumnos.docx)
+[Entrevista Estructurada Sistema de gestión de alumnos .docx](https://github.com/user-attachments/files/22456992/Entrevista.Estructurada.Sistema.de.gestion.de.alumnos.docx)
+
 
 ## Cuestionario
 Se aplicó un cuestionario para identificar problemas específicos con los sistemas actuales y priorizar las necesidades más urgentes. El cuestionario reveló que la pérdida de tiempo y la desorganización son los principales problemas, junto con la dificultad de trabajar con herramientas que no funcionan de manera integrada.
