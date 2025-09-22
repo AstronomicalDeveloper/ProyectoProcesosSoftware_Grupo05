@@ -4,17 +4,6 @@
 Los requisitos funcionales se expresan en lenguaje técnico a partir de los requisitos funcionales mandatorios que se han identificado en la categorización de requisitos de usuario.
 Ello implica el desarrollo de los siguientes puntos:
   
-- ***Módulos individuales por estudiante:*** cada estudiante contará con un módulo que registre su historial académico y de asistencia. El sistema permitirá añadir observaciones personalizadas.
-  
-- ***Registro de notas con cálculo automático de promedios:*** el sistema deberá almacenar notas por asignatura y calcular el promedio automáticamente considerando el peso de cada nota.
-  
-- ***Registro de asistencias:*** el sistema permitirá registrar asistencia diaria.
-  
-- ***Agrupación automática de estudiantes:*** el sistema conformará grupos de manera automática según criterios definidos (ejemplo: número de estudiantes por grupo).
-  
-- ***Generación de reportes básicos:*** el sistema deberá generar reportes en PDF o Excel con el registro de notas y asistencia.
-
-- ***Generador de fichas de trabajo:*** Basado en un repositorio de ejercicios (problemas, crucigramas, rompecabezas y textos), deberás agilizar la creación de materiales. Las fichas generadas deberán poder descargarse en formato Word o PDF.
 - ***Módulos individuales por estudiante***
 Descripción: Cada estudiante contará con un módulo único que almacenará su información académica y de asistencia.
 Entradas:
