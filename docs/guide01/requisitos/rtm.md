@@ -5,7 +5,9 @@ Los requisitos funcionales se expresan en lenguaje técnico a partir de los requ
 Ello implica el desarrollo de los siguientes puntos:
   
 - ***Módulos individuales por estudiante***
+
 Descripción: Cada estudiante contará con un módulo único que almacenará su información académica y de asistencia.
+
 Entradas:
 Datos personales del estudiante (ID, nombre, apellido, grado, etc.).
 Registros de notas por asignatura.
