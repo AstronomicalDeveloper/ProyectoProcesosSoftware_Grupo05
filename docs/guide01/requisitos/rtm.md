@@ -23,7 +23,7 @@ Visualización consolidada del historial académico y de asistencia del estudian
 Reporte individual exportable (PDF o Excel).
 
 - ***Registro de notas con cálculo automático de promedios***
-- 
+  
 Descripción: El sistema permitirá registrar notas por asignatura y calcular automáticamente los promedios ponderados.
 
 Entradas:
