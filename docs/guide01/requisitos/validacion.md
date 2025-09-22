@@ -1,7 +1,7 @@
 # Validación de requisitos de software
 Esta actividad se realiza al final del análisis de requisitos. Resultado de la negociación y discusión de los requisitos con el cliente. Los requisitos se pueden verificar respecto a las siguientes consideraciones:
 
-- Si el requisito del cliente contrapone las buenas prácticas de la organización.
+- ***Si el requisito del cliente contrapone las buenas prácticas de la organización.***
   
   Los requisitos planteados (registro de notas, asistencia, módulos personalizados, generación de fichas) no contraponen las buenas prácticas.
   Se promueve la organización de la información académica y administrativa, evitando duplicidad de datos y reduciendo errores manuales.
@@ -12,14 +12,14 @@ Esta actividad se realiza al final del análisis de requisitos. Resultado de la 
   Contribución a los objetivos: Facilita el trabajo docente, mejora la comunicación con padres y centraliza la información académica.
   Dominio: Es un sistema orientado al ámbito educativo, válido y pertinente para escuelas de nivel primario, adaptado al flujo de trabajo de los docentes.
   
-- Si existen algunas restricciones por tiempo, costo, experiencia en desarrollo.
+- ***Si existen algunas restricciones por tiempo, costo, experiencia en desarrollo.***
   
   Tiempo: El desarrollo debe priorizar las funciones críticas (notas, asistencia, módulos personalizados) en una primera versión.
   
   Costo: Se sugiere usar herramientas y software libre para reducir gastos.
   
   Experiencia: El equipo de desarrollo debe tener conocimientos en aplicaciones web o de escritorio y gestión de bases de datos relacionales.
-- Si el equipo de desarrollo interpretó correctamente los requisitos.
+- ***Si el equipo de desarrollo interpretó correctamente los requisitos.***
   
   El equipo de desarrollo ha identificado como prioridad:
   
