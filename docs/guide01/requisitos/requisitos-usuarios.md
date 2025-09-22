@@ -15,7 +15,7 @@ Se aplicó un cuestionario para identificar problemas específicos con los siste
 [Mini Cuestionario de Requisitos.docx](https://github.com/user-attachments/files/22454872/Mini.Cuestionario.de.Requisitos.docx)
 
 ## Hallazgos Principales  
--Los profesores utilizan múltiples programas no integrados (Excel, Word, WhatsApp)  
+-La cliente utiliza múltiples programas no integrados (Excel, Word, WhatsApp)  
 -Existe duplicidad de datos y necesidad de transcripción manual entre sistemas  
 -Se realizan cálculos manuales para notas y asistencias  
 -Hay interés en tener información integrada y accesible por cada estudiante  
