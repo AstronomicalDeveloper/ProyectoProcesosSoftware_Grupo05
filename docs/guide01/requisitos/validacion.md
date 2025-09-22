@@ -20,6 +20,7 @@ Esta actividad se realiza al final del análisis de requisitos. Resultado de la 
   
   Experiencia: El equipo de desarrollo debe tener conocimientos en aplicaciones web o de escritorio y gestión de bases de datos relacionales.
 - Si el equipo de desarrollo interpretó correctamente los requisitos.
+  
   El equipo de desarrollo ha identificado como prioridad:
   
     -Registro de notas.
