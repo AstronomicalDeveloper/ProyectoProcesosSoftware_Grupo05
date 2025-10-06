@@ -15,5 +15,5 @@ Se define el ED, sus miembros y los roles en el equipo.
 | Jefe de proyecto  | Bardales Guadalupe, Landry | Jefe de proyecto, coordinacion con docente y programación  |
 | Desarrollador | Gerardo Cuadros, Rojas | Programación |
 | Desarrollador | Ccoicca Fernandez, Adrian | Programación |
-| Tester | Ushiñahua Castañeda Paulo Cesar | Programación |
+| Tester | Ushiñahua Castañeda Paulo Cesar | Programación, ejecución de pruebas|
 
