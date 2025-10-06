@@ -38,6 +38,13 @@ Establecer el desglose del proyecto en actividades e identifica los hitos y entr
 ## Qué se espera: Ejemplo en tabla
 | ID | Tarea | Entregable | Responsable |
 |----|-------|------------|-------------|
-| 1.1 | Recopilar requisitos | Documento de requisitos | Alumno 2 |
-| 2.1 | Modelo de datos | Diagrama ER | Alumno 3 |
-| 3.1 | Backend | Código funcional | Alumno 2 |
+| 1.1 | Recopilar requisitos | Documento de requisitos | Todos |
+| 1.2 | Documentar casos de uso | Documento de casos de uso | Todos |
+| 2.1 | Modelo de datos | Diagrama ER | Todos |
+| 2.2 | Interfaces de usuario | Diapositivas en Canva | Landry |
+| 3.1 | Backend | Código funcional | Gerardo |
+| 3.2 | Frontend | Código funcional | Adrian |
+| 4.1 | Pruebas unitarias | Reporte de pruebas unitarias | Paulo |
+| 4.2 | Pruebas de integración | Reporte de pruebas de integración | Paulo |
+| 5.1 | Documentación final | Documentación técnica | Todos |
+| 5.2 | Presentación final | Presentación PowerPoint y video | Todos |
