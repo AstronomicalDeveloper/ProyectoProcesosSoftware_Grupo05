@@ -12,4 +12,5 @@ Se recomienda agrupar el software que se utiliza por cada etapa de desarrollo
 - Lenguaje: Python 3.11
 - IDE: Visual Studio Code
 - Control de versiones: Git + GitHub
-- Base de datos: PostgreSQL 15
+- Base de datos: MariaDB
+- Administrador de base de datos: DBeaver
