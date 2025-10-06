@@ -25,7 +25,7 @@ Una estructura de desglose de trabajo (EDT), también conocida por WBS (Work Bre
       - Integración: Pruebas de integración del backend y frontend para garantizar la coherencia.
 5. Entrega
       - Documentación final: Documento técnico que detalla la arquitectura del sistema, la base de          datos y el código.
-      - Presentación y demostración en vivo del sistema y explica los beneficios para los usuarios          finales. (24 de noviembre)
+      - Presentación y demostración del sistema (24 de noviembre).
   
 
 
