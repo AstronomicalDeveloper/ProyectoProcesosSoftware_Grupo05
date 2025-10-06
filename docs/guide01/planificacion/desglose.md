@@ -1,18 +1,19 @@
 # Desglose del Trabajo (WBS)
 Una estructura de desglose de trabajo (EDT), también conocida por WBS (Work Breakdown Structure) por sus siglas en inglés, es la descomposición de un proyecto que está organizado en varios niveles.
 1. Análisis
-   - Recopilar requisitos
+   - Reuniones con la cliente para entender las necesidades del sistema.
+   - Identificación de las funcionalidades clave y requisitos.
    - Documentar casos de uso
-2. Diseño
-   - Modelo de datos
-   - Interfaces de usuario
-3. Implementación
+3. Diseño
+   - Creación de la base de datos que almacena la información de los estudiantes, calificaciones,         asistencia, etc.
+   - Diseño de maquetas de las pantallas que la usuaria verá (por ejemplo, el panel de                    calificaciones de un estudiante, o la vista de asistencia del docente).
+4. Implementación
    - Backend
    - Frontend
-4. Pruebas
+5. Pruebas
    - Unitarias
    - Integración
-5. Entrega
+6. Entrega
    - Documentación final
    - Presentación
 
