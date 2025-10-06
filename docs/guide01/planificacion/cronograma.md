@@ -6,7 +6,7 @@ La herramienta recomendada para diseñar el cronograma de trabajo es el Project 
 
 
 ## Cronograma en formato Project Libre
-ARchivos descargable:
+Archivo descargable:
 [Grupo5.pdf](https://github.com/user-attachments/files/22726978/Grupo5.pdf)
 
 
