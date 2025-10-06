@@ -21,11 +21,11 @@ Una estructura de desglose de trabajo (EDT), también conocida por WBS (Work Bre
       - Stack: React, Tailwind, HTML y CSS.
       - Páginas: Login, dashboard, alumnos, asistencia (marcado rápido), notas (tabla editable), reportes.
 4. Pruebas
-   - Unitarias
-   - Integración
+      - Unitarias: Pruebas de los componentes individuales del sistema (funciones, módulos).
+      - Integración: Pruebas de integración del backend y frontend para garantizar la coherencia.
 5. Entrega
-   - Documentación final
-   - Presentación (24 de noviembre)
+      - Documentación final: Documento técnico que detalla la arquitectura del sistema, la base de          datos y el código.
+      - Presentación y demostración en vivo del sistema y explica los beneficios para los usuarios          finales. (24 de noviembre)
   
 
 
