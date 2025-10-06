@@ -8,14 +8,14 @@ Una estructura de desglose de trabajo (EDT), también conocida por WBS (Work Bre
    - Creación de la base de datos que almacena la información de los estudiantes, calificaciones,         asistencia, etc.
    - Diseño de maquetas de las pantallas que la usuaria verá (por ejemplo, el panel de                    calificaciones de un estudiante, o la vista de asistencia del docente).
 4. Implementación
-   - Backend
-   - Frontend
+   - Backend: Programación de la lógica de negocio y la implementación de la base de datos.
+   - Frontend: Desarrollo de las interfaces de usuario utilizando tecnologías como HTML.
 5. Pruebas
    - Unitarias
    - Integración
 6. Entrega
    - Documentación final
-   - Presentación
+   - Presentación (24 de noviembre)
 
 
 # Tips para mayor claridad
