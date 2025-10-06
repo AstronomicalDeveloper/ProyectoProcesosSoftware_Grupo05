@@ -1,5 +1,5 @@
 # Requisitos de usuario
-Los presentes requisitos de usuario describen las necesidades y expectativas para el desarrollo de un Sistema de Gestión de Alumnos, expresadas en lenguaje natural por los usuarios finales. Estos requisitos han sido recopilados mediante diversas técnicas de obtención descritas en el Anexo A de este documento.
+Los requisitos de usuario describen las necesidades y expectativas para el desarrollo de un Sistema de Gestión de Alumnos, expresadas en lenguaje natural por los usuarios finales. Estos requisitos han sido recopilados mediante diversas técnicas de obtención descritas en el Anexo A de este documento.
 
 ## Descripción de las Funciones Previstas
 El sistema deberá ayudar a los profesores en su trabajo diario con los estudiantes, facilitando el registro de información académica, el seguimiento del progreso de cada alumno y la comunicación sobre su desempeño. Se prevé que el sistema permita tener toda la información de los estudiantes interconectada para evitar la repetición de tareas y los errores que ocurren cuando se usan múltiples programas no integrados.
