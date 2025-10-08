@@ -1,5 +1,5 @@
 # Cronograma
-Muestra las dependencias entre las actividades, el tiempo estimado requerido para completar las actividades y la asignación de personas a las actividades. Este cronograma representa la planificación inicial de actividades del proyecto de prototipo de software. Por ello, los EDs guardarán la primera versión validada (por el docente) a fin de comparar con la versión del cronograma al finalizar la implementación del proyecto de prototipo de software.
+En esta sección se presenta el cronograma del proyecto, donde se detallan las actividades planificadas y sus respectivos plazos. Este cronograma permitirá visualizar el orden y la duración de cada tarea para el cumplimiento de los objetivos propuestos.
 
 ## Herramienta utilizada será a preferencia del ED.
 La herramienta recomendada para diseñar el cronograma de trabajo es el Project Libre (https://www.projectlibre.com/)
@@ -8,6 +8,12 @@ La herramienta recomendada para diseñar el cronograma de trabajo es el Project 
 ## Cronograma en formato Project Libre
 Archivo descargable:
 [Grupo5.pdf](https://github.com/user-attachments/files/22726978/Grupo5.pdf)
+
+
+
+
+
+
 
 
 
