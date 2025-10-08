@@ -8,8 +8,6 @@ Descripción del requisito → Registro de notas y cálculo automático de prome
 
 Tipo de conflicto / Ambigüedad → No estaba claro si el cálculo debía ser personalizable según la institución o fijo.
 
-Partes involucradas → Cliente (profesora), Equipo de Desarrollo.
-
 Discusión / Análisis → Se analizó la necesidad de que cada institución pueda configurar el tipo de promedio (ponderado, simple) para evitar que el sistema sea rígido.
 
 Acuerdo final → Se decidió implementar cálculo de promedios configurable en parámetros del sistema.
@@ -21,8 +19,6 @@ RQ0002:
 Descripción del requisito → Creación de fichas de trabajo de manera automática.
 
 Tipo de conflicto / Ambigüedad → Generar fichas dinámicas requiere más tiempo de desarrollo y podría aumentar el costo del sistema.
-
-Partes involucradas → Cliente (profesora), Equipo de Desarrollo.
 
 Discusión / Análisis → Se discutió si debía incluirse en la primera versión o dejarse para una futura iteración, considerando la carga de trabajo y presupuesto.
 
@@ -37,8 +33,6 @@ RQ0003:
 Descripción del requisito → Seguridad del sistema.
 
 Tipo de conflicto / Ambigüedad → La profesora indicó que no requiere alta seguridad, pero los datos de alumnos son sensibles y deben protegerse.
-
-Partes involucradas → Cliente, Equipo de Desarrollo.
 
 Discusión / Análisis → Se discutió el riesgo de filtración de datos y la obligación de proteger información personal por normativa educativa.
 
