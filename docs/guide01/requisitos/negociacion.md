@@ -36,6 +36,6 @@ Tipo de conflicto / Ambigüedad → La profesora indicó que no requiere alta se
 
 Discusión / Análisis → Se discutió el riesgo de filtración de datos y la obligación de proteger información personal por normativa educativa.
 
-Acuerdo final → Se acordó implementar un nivel de seguridad mínimo: usuarios con contraseña y encriptación básica de datos.
+Acuerdo final → Se acordó implementar un servidor local y omitir un usuario con contraseña.
 
 Revaluación Post-Implementación → Revisar si este nivel de seguridad es suficiente o si debe incrementarse según normativa escolar.
