@@ -5,7 +5,7 @@ Los requisitos de usuario describen las necesidades y expectativas para el desar
 El sistema deberá ayudar a los profesores en su trabajo diario con los estudiantes, facilitando el registro de información académica, el seguimiento del progreso de cada alumno y la comunicación sobre su desempeño. Se prevé que el sistema permita tener toda la información de los estudiantes interconectada para evitar la repetición de tareas y los errores que ocurren cuando se usan múltiples programas no integrados.
 
 Las funciones principales incluyen:
--Módulo del estudiante: Registro y consulta de datos personales, notas y asistencias .
+-Módulo del estudiante: Registro y consulta de datos personales, notas y asistencias
 -Registro de notas: Ingreso de calificaciones con cálculo automático de promedios.
 -Registro de asistencias: Control diario de asistencia con reportes mensuales.
 -Agrupación automática: Formación de grupos según criterios de cliente.
